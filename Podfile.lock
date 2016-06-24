@@ -1,0 +1,30 @@
+PODS:
+  - AVOSCloud (3.3.3)
+  - Masonry (1.0.1)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.5)
+  - Reachability (3.2)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - UMengSocialCOM (5.2.1)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - Reachability
+  - SDWebImage
+  - UMengSocialCOM
+
+SPEC CHECKSUMS:
+  AVOSCloud: dcd8a24c219971400146fe09638d218cfc8bb7f1
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: 53f348def11abbb5f8e1eaf15c39df742d543677
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+
+COCOAPODS: 0.39.0
